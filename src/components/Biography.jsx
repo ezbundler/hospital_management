@@ -10,6 +10,7 @@ const Biography = ({imageUrl}) => {
         <div className="banner">
           <p>Biography</p>
           <h3>Who We Are</h3>
+          {/* hello world */}
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
             blanditiis sequi aperiam. Debitis fugiat harum ex maxime illo
