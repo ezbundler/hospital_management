@@ -25,7 +25,7 @@ const Biography = ({imageUrl}) => {
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
             assumenda exercitationem accusamus sit repellendus quo optio dolorum
-            corporis corrupti. Quas similique vel minima veniam tenetur
+            corporis corrupti. Quas similique vel minima veniam teneturlore 20
             obcaecati atque magni suscipit laboriosam! Veniam vitae minus nihil
             cupiditate natus provident. Ex illum quasi pariatur odit nisi
             voluptas illo qui ipsum mollitia. Libero, assumenda?
